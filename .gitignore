@@ -1,4 +1,5 @@
 .idea/
 tmp.ipynb
-cd_v1/cd_v1.npz
+digit_gen.ipynb
+*.npz
 .DS_Store
